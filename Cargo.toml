@@ -4,6 +4,7 @@ version = "0.2.0"
 authors = ["Bertrand \"Kamek\" Bousquet <b.kamek@gmail.com>"]
 
 [dependencies]
+dirs = "1.0.5"
 failure = "0.1.5"
 serde = "1.0.87"
 serde_qs = "0.4.5"
